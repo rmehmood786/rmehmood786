@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rashid Mehmood
+# Hi there 👋, I am Rashid Mehmood (GitHub: rmehmood786) 
 
 **Computer Vision & Biomechanics (Python/OpenCV · OpenPose)**  
 I build robust pipelines that turn walking videos + OpenPose keypoints into **gait events** (heel-strike, toe-off, foot-flat) and **8 sub-phases**, with annotated MP4s, Excel reports, and QC plots.
