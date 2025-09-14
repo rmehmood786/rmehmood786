@@ -18,7 +18,7 @@ Currently a **Research Assistant @ Liverpool John Moores University**, focusing 
 | **Pose Cleaning Toolkit** | Gap fill, Hampel outlier removal, Savitzky–Golay smoothing, pelvis/hip-width normalization. | Python · NumPy/SciPy | **Packaging** — docs & samples in progress. |
 | **Gait QC Dashboard** | Streamlit app to review events/plots and scrub to frames. | Streamlit · Plotly | **Prototype** — polishing UI & demo clip. |
 
-> Want early access or a private demo? **Email/DM me** and I’ll share a preview build.
+> Want early access or a private demo? **Email me** and I’ll share a preview build.
 
 ---
 
