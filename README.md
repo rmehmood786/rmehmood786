@@ -14,21 +14,20 @@ I love applying **machine learning, time-series analysis, and generative AI** to
 
 ---
 
-### 🌱 Currently Learning
-- Advanced **Generative AI models and MLOps**  
-- Scalable **machine learning systems**  
-- Novel approaches in **human motion modeling**
+## How I can help
+- Batch pipelines: video → events → annotated MP4 + Excel/plots
+- Pose series cleaning (gaps, outliers, smoothing, normalization)
+- Research support: reproducible scripts, figure generation
 
 ---
 
 ### 💻 Tech Stack
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=MATLAB)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ---
 ---
@@ -57,4 +56,7 @@ I love applying **machine learning, time-series analysis, and generative AI** to
 - Alblushi, K., Mehmood, R., Hussain, A. J., & Almajali, E. (Manuscript in preparation). *AI-Powered Wearable Technologies in Pediatric Health Monitoring*.
 
 ---
+
+**Jump to:** [Featured Projects](#-featured-projects) · [Tech Stack](#tech-stack) · [Certifications](#certifications)
+
 
