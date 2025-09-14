@@ -1,27 +1,41 @@
-## Hi there 👋, I'm Rashid Mehmood
+# Hi there 👋, I'm Rashid Mehmood
 
-I'm a **Researcher & AI Enthusiast** with a Master's in **Cybersecurity & Artificial Intelligence** from the University of Sheffield. Currently, I’m working as a **Research Assistant** at Liverpool John Moores University, focusing on **gait analysis, human motion studies, and AI for health & safety applications**.  
+**Computer Vision & Biomechanics (Python/OpenCV · OpenPose)**  
+I build robust pipelines that turn walking videos + OpenPose keypoints into **gait events** (heel-strike, toe-off, foot-flat) and **8 sub-phases**, with annotated MP4s, Excel reports, and QC plots.
 
-I love applying **machine learning, time-series analysis, and generative AI** to solve real-world problems, especially in health, safety, and ageing.  
+Currently a **Research Assistant @ Liverpool John Moores University**, focusing on **gait analysis, human motion**, and **AI for health & safety**. I enjoy applying **ML, signal processing, and generative AI** to real-world problems—especially in health, safety, and ageing.
+
+**Work with me:** batch pipelines · pose cleaning · reproducible research  
+📧 **Email:** [rashidmehmood5914@gmail.com](mailto:rashidmehmood5914@gmail.com) · 🔗 **LinkedIn:** [Rashid Mehmood](https://linkedin.com/in/rashid-mehmood-5b4b2b291)
 
 ---
 
-### 🔭 Current Work
-- Research Assistant at **Liverpool John Moores University**:  
-  - Developing algorithms for **gait phase segmentation** and **biomechanical transition detection**.  
-  - Applying **Generative AI** for motion pattern analysis in digital health applications.  
-  - Preparing a manuscript: *Gait Phase Identification and Feature Extraction* (2025).  
+## 🚧 Ongoing Projects (repos coming soon)
+
+| Project | What it does | Tech | Status |
+|---|---|---|---|
+| **Gait Event & Subphase Pipeline** | Detects HS/TO/FF and derives 8 sub-phases per left cycle; exports annotated MP4 + Excel + QC plots. | Python · OpenCV · SciPy | **Internal testing** — public repo planned. |
+| **Pose Cleaning Toolkit** | Gap fill, Hampel outlier removal, Savitzky–Golay smoothing, pelvis/hip-width normalization. | Python · NumPy/SciPy | **Packaging** — docs & samples in progress. |
+| **Gait QC Dashboard** | Streamlit app to review events/plots and scrub to frames. | Streamlit · Plotly | **Prototype** — polishing UI & demo clip. |
+
+> Want early access or a private demo? **Email/DM me** and I’ll share a preview build.
 
 ---
 
 ## How I can help
-- Batch pipelines: video → events → annotated MP4 + Excel/plots
-- Pose series cleaning (gaps, outliers, smoothing, normalization)
-- Research support: reproducible scripts, figure generation
+- **End-to-end pipelines:** video → OpenPose JSON → events/sub-phases → annotated MP4 + Excel/plots  
+- **Pose time-series cleaning:** missing data interpolation, outlier suppression (Hampel), smoothing (Savitzky–Golay), normalization  
+- **Research support:** reproducible scripts, figure generation, dataset QC
 
 ---
 
-### 💻 Tech Stack
+## 🔭 Current Work
+- **Liverpool John Moores University**  
+  - Algorithms for **gait phase segmentation** & **biomechanical transition detection**  
+
+---
+
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
@@ -30,33 +44,23 @@ I love applying **machine learning, time-series analysis, and generative AI** to
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ---
----
 
-### 🏆 Certifications
-- [Google Cloud Certified: Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/12791405) – Nov 2024  
-- [Google Cloud Certified: Vector Search & Embeddings](https://www.cloudskillsboost.google/public_profiles/12821227) – Nov 2024  
-- [Google Cloud Certified: MLOps for Generative AI](https://www.cloudskillsboost.google/public_profiles/11515423) – Sep 2024  
-
----
-### 📫 How to Reach Me
-- Email: [rashidmehmood5914@gmail.com](mailto:rashidmehmood6914@gmail.com)  
-- LinkedIn: [Rashid Mehmood](https://linkedin.com/in/rashid-mehmood-5b4b2b291)  
+## 🏆 Certifications
+- [Google Cloud: Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/12791405) — Nov 2024  
+- [Google Cloud: Vector Search & Embeddings](https://www.cloudskillsboost.google/public_profiles/12821227) — Nov 2024  
+- [Google Cloud: MLOps for Generative AI](https://www.cloudskillsboost.google/public_profiles/11515423) — Sep 2024  
 
 ---
 
-### 📚 Research Interests
-- Human motion analysis  
-- Machine learning for health applications  
-- Injury prevention technologies  
+## 📚 Research Interests
+Human motion analysis · ML for health applications · Injury prevention technologies
 
 ---
 
-### 📝 Publications & Manuscripts
-- Mehmood, R., Topham, L., & Khan, W. (In preparation, 2025). *Gait Phase Identification and Feature Extraction*.  
-- Alblushi, K., Mehmood, R., Hussain, A. J., & Almajali, E. (Manuscript in preparation). *AI-Powered Wearable Technologies in Pediatric Health Monitoring*.
+## 📝 Publications & Manuscripts
+- Mehmood, R., Topham, L., & Khan, W. (in prep., 2025). *Gait Phase Identification and Feature Extraction*.  
+- Alblushi, K., Mehmood, R., Hussain, A. J., & Almajali, E. (in prep.). *AI-Powered Wearable Technologies in Pediatric Health Monitoring*.
 
 ---
 
-**Jump to:** [Featured Projects](#-featured-projects) · [Tech Stack](#tech-stack) · [Certifications](#certifications)
-
-
+**Jump to:** [Ongoing Projects](#-ongoing-projects-repos-coming-soon) · [How I can help](#how-i-can-help) · [Tech Stack](#-tech-stack) · [Certifications](#-certifications)
