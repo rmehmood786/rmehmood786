@@ -29,7 +29,7 @@ I build robust pipelines that turn walking videos + OpenPose keypoints into **ga
 
 ---
 
-## 🔭 Current Work
+## 🔭 Current Collaboration
 - **Liverpool John Moores University**  
   - Algorithms for **gait phase segmentation** & **biomechanical transition detection**  
 
