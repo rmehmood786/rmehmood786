@@ -3,7 +3,7 @@
 **Computer Vision & Biomechanics (Python/OpenCV · OpenPose)**  
 I build robust pipelines that turn walking videos + OpenPose keypoints into **gait events** (heel-strike, toe-off, foot-flat) and **8 sub-phases**, with annotated MP4s, Excel reports, and QC plots.
 
-Currently a **Research Assistant @ Liverpool John Moores University**, focusing on **gait analysis, human motion**, and **AI for health & safety**. I enjoy applying **ML, signal processing, and generative AI** to real-world problems—especially in health, safety, and ageing.
+**Research Collaborator @ Liverpool John Moores University** investigating **gait analysis and human motion** through **AI-driven approaches for health & safety applications**. Expertise in deploying **machine learning, signal processing, and generative AI** to solve practical problems in **healthcare, safety monitoring, and ageing research**.
 
 **Work with me:** batch pipelines · pose cleaning · reproducible research  
 📧 **Email:** [rashidmehmood5914@gmail.com](mailto:rashidmehmood5914@gmail.com) · 🔗 **LinkedIn:** [Rashid Mehmood](https://linkedin.com/in/rashid-mehmood-5b4b2b291)
