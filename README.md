@@ -75,8 +75,6 @@ Building robust pipelines that transform walking videos + OpenPose keypoints int
 ## 📝 Publications & Preprints
 
 - **Mehmood, R.**, Topham, L., & Khan, W. (in preparation). *Gait Phase Identification and Feature Extraction using Multimodal Computer Vision Approaches*
-- Alblushi, K., **Mehmood, R.**, Hussain, A. J., & Almajali, E. (in preparation). *AI-Powered Wearable Technologies in Pediatric Health Monitoring*
-
 ---
 
 
