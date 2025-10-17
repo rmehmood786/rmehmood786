@@ -1,13 +1,13 @@
-# Hi there 👋, I'm Rashid Mehmood
+# 👋 Hi, I'm Rashid Mehmood
 
 **Computer Vision Researcher | Gait Analysis & Biomechanics**  
-Building robust pipelines that transform walking videos + OpenPose keypoints into **quantitative gait metrics**, **event detection** (heel-strike, toe-off, foot-flat), and **8-phase segmentation** with annotated outputs and quality control.
+Transforming human motion videos into quantifiable **gait metrics**, **event detections** (heel-strike, toe-off, foot-flat), and **8-phase segmentations** with full quality control and annotated outputs.
 
-**Research Collaborator @ Liverpool John Moores University** investigating **gait analysis and human motion** through **AI-driven approaches for health & safety applications**. Expertise in deploying **machine learning, signal processing, and generative AI** to solve practical problems in **healthcare, safety monitoring, and ageing research**.
+**🎓 Research Collaborator – Liverpool John Moores University (LJMU)**  
+Investigating **AI-driven human motion analysis** for **healthcare, safety, and ageing research**, blending expertise in **computer vision, signal processing, and generative AI**.
 
-**💼 Collaboration Opportunities:** batch processing pipelines · pose data cleaning · reproducible research workflows  
-**📧 Email:** [rashidmehmood5914@gmail.com](mailto:rashidmehmood5914@gmail.com)  
-**🔗 LinkedIn:** [Rashid Mehmood](https://linkedin.com/in/rashid-mehmood-5b4b2b291)
+📧 [rashidmehmood5914@gmail.com](mailto:rashidmehmood5914@gmail.com) 
+🔗 [LinkedIn](https://linkedin.com/in/rashid-mehmood-5b4b2b291)
 
 ---
 
@@ -15,28 +15,30 @@ Building robust pipelines that transform walking videos + OpenPose keypoints int
 
 | Project | Description | Tech Stack | Status |
 |---|---|---|---|
-| **Gait Event & Subphase Pipeline** | Detects gait events (HS/TO/FF) and segments into 8 sub-phases; exports annotated videos + Excel reports + QC visualizations | Python · OpenCV · SciPy | **Internal Testing** → Public repo planned |
-| **Pose Cleaning Toolkit** | Comprehensive pose data preprocessing: gap filling, outlier removal (Hampel), smoothing (Savitzky–Golay), anatomical normalization | Python · NumPy · SciPy | **Packaging** → Docs & examples in progress |
-| **Gait QC Dashboard** | Interactive Streamlit application for gait analysis review, event validation, and frame-level inspection | Streamlit · Plotly · OpenCV | **Prototype** → UI/UX refinement |
+| **Gait Event & Subphase Pipeline** | Detects gait events (HS/TO/FF) and segments into 8 sub-phases; exports annotated videos, Excel reports, and QC visualizations. | Python · OpenCV · SciPy | 🧪 Internal testing → Public release planned |
+| **Pose Cleaning Toolkit** | End-to-end preprocessing of pose keypoints — gap filling, outlier removal (Hampel), smoothing (Savitzky–Golay), and anatomical normalization. | NumPy · SciPy · Pandas | ⚙️ Packaging → Docs & examples in progress |
+| **Gait QC Dashboard** | Streamlit dashboard for frame-level gait inspection, event validation, and multi-subject visualization. | Streamlit · Plotly · OpenCV | 🧩 Prototype → UI/UX refinement |
 
-> 🔬 **Interested in early access or a private demo?** Email me for preview builds and collaboration opportunities.
-
----
-
-## 🛠️ Technical Expertise
-
-### Core Competencies
-- **End-to-end gait analysis pipelines:** video → OpenPose processing → event detection → phase segmentation → annotated outputs
-- **Pose data processing:** missing data interpolation, outlier detection & removal, signal smoothing, anatomical normalization
-- **Research reproducibility:** modular scripts, automated figure generation, dataset quality control
-
-### Research Collaboration
-- **Liverpool John Moores University**  
-  Developing algorithms for **precise gait phase segmentation** and **biomechanical transition detection** using computer vision and temporal analysis
+> 💡 *Interested in private demos, data collaboration, or reproducible workflow templates?*  
+> Reach out for early access and research partnerships.
 
 ---
 
-## 💻 Technical Stack
+## 🧠 Core Expertise
+
+### Gait & Motion Analysis
+- Complete pipelines: **video → OpenPose → event detection → segmentation → report generation**
+- Data cleaning, interpolation, and biomechanical signal normalization
+- Automated **QC & reproducibility** using modular analysis scripts
+
+### Applied Research
+- **LJMU Collaboration:** precision gait phase segmentation & transition detection using temporal computer vision
+- **Signal-based AI:** Echo-State Networks, time-series modeling, and hybrid biomechanical features
+- **Responsible AI:** reproducibility, bias assessment, and ethical deployment in healthcare
+
+---
+
+## 🧰 Technical Stack
 
 **Programming & Data Science**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -56,28 +58,35 @@ Building robust pipelines that transform walking videos + OpenPose keypoints int
 
 ---
 
-## 🏆 Certifications & Learning
+## 🎓 Certifications & Learning
 
-- **Google Cloud: Introduction to Generative AI** — Nov 2024  
-- **Google Cloud: Vector Search & Embeddings** — Nov 2024  
-- **Google Cloud: MLOps for Generative AI** — Sep 2024  
+| Certificate | Platform | Date |
+|---|---|---|
+| **Introduction to Generative AI** | Google Cloud | Nov 2024 |
+| **Vector Search & Embeddings** | Google Cloud | Nov 2024 |
+| **MLOps for Generative AI** | Google Cloud | Sep 2024 |
 
 ---
 
-## 📚 Research Focus
+## 📚 Research Interests
 
-- **Human Motion Analysis** · Gait biomechanics · Movement segmentation
-- **ML for Healthcare** · Clinical applications · Injury prevention
-- **AI Safety & Ethics** · Responsible deployment · Biomedical validation
+- **Human Motion Analysis** – Gait biomechanics · Spatiotemporal modeling · Phase identification  
+- **AI for Healthcare** – Clinical motion datasets · Rehabilitation · Injury prevention  
+- **Generative & Responsible AI** – Bias mitigation · Reproducibility · Biomedical validation  
 
 ---
 
 ## 📝 Publications & Preprints
 
-- **Mehmood, R.**, Topham, L., & Khan, W. (in preparation). *Gait Phase Identification and Feature Extraction using Multimodal Computer Vision Approaches*
+- **Mehmood, R.**, Topham, L., & Khan, W. *(in preparation)*.  
+  *Gait Phase Identification and Feature Extraction using Multimodal Computer Vision Approaches.*
+
 ---
 
+## 🔗 Quick Links
+[🚀 Projects](#-featured-projects) · [🧠 Expertise](#-core-expertise) · [🧰 Tech Stack](#-technical-stack) · [📚 Research](#-research-interests)
 
 ---
 
-**Quick Links:** [Projects](#-featured-projects) · [Expertise](#-technical-expertise) · [Tech Stack](#-technical-stack) · [Research](#-research-focus)
+💬 *Open to collaborations in computer vision for gait, human motion, and digital health.*  
+Let’s build reproducible, data-driven motion analysis systems that actually help people walk better.
